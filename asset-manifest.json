@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tgdating/static/css/main.9e4444eb.css",
+    "main.js": "/tgdating/static/js/main.1ac66efa.js",
+    "index.html": "/tgdating/index.html",
+    "static/media/wrong.svg": "/tgdating/static/media/wrong.6ba3766456835d4d4326c90b7f3ee3b4.svg",
+    "static/media/right.svg": "/tgdating/static/media/right.381ab7a85fc1598aec90f1b129019e31.svg",
+    "main.9e4444eb.css.map": "/tgdating/static/css/main.9e4444eb.css.map",
+    "main.1ac66efa.js.map": "/tgdating/static/js/main.1ac66efa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4444eb.css",
+    "static/js/main.1ac66efa.js"
+  ]
+}
