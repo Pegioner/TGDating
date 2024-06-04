@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e4444eb.css",
-    "main.js": "/static/js/main.e70a402a.js",
-    "index.html": "/index.html",
-    "static/media/wrong.svg": "/static/media/wrong.6ba3766456835d4d4326c90b7f3ee3b4.svg",
-    "static/media/right.svg": "/static/media/right.381ab7a85fc1598aec90f1b129019e31.svg",
-    "main.9e4444eb.css.map": "/static/css/main.9e4444eb.css.map",
-    "main.e70a402a.js.map": "/static/js/main.e70a402a.js.map"
+    "main.css": "/TGDating/static/css/main.9e4444eb.css",
+    "main.js": "/TGDating/static/js/main.a5e3ad25.js",
+    "index.html": "/TGDating/index.html",
+    "static/media/wrong.svg": "/TGDating/static/media/wrong.6ba3766456835d4d4326c90b7f3ee3b4.svg",
+    "static/media/right.svg": "/TGDating/static/media/right.381ab7a85fc1598aec90f1b129019e31.svg",
+    "main.9e4444eb.css.map": "/TGDating/static/css/main.9e4444eb.css.map",
+    "main.a5e3ad25.js.map": "/TGDating/static/js/main.a5e3ad25.js.map"
   },
   "entrypoints": [
     "static/css/main.9e4444eb.css",
-    "static/js/main.e70a402a.js"
+    "static/js/main.a5e3ad25.js"
   ]
 }
